@@ -4,3 +4,7 @@ Este repositorio contiene una aplicación de consola en Java diseñada para prac
 
 La aplicación simula una tienda de ordenadores
 
+Autor
+
+Desarrollado por @ecalar como parte del repaso de contenidos del CFGS DAM.
+
