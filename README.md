@@ -37,18 +37,6 @@ Este proyecto simula un sistema de gestión de ventas de ordenadores, incluyendo
 
 ---
 
-## 🗂️ Estructura del Proyecto
-
-VentaOrdenadoresApp/
-├── src/
-│ ├── main/
-│ │ └── java/
-│ │ ├── models/
-│ │ ├── services/
-│ │ └── VentaOrdenadoresApp.java
-└── README.md
----
-
 ## 📸 Capturas (próximamente)
 
 Próximamente se añadirán capturas de la aplicación ejecutándose en consola.
