@@ -60,7 +60,7 @@ Este proyecto forma parte de mi porfolio como desarrollador y de mi proceso de a
 Si quieres ponerte en contacto conmigo para oportunidades laborales o colaboración:
 
 - GitHub: [@ecalar](https://github.com/ecalar)
-- Email: *(enriquecalar@gmail.com)*
+- Email: enriquecalar@gmail.com
 
 ---
 
